@@ -10,7 +10,7 @@
 - Clicar no ok mais um vez na mensagem de confirmação de salvamento no banco de dados.
 - Clicar em adicionar mais um e repetir o processo até finalizar a planilha.
 
-# Bibliotecas para resolver o porblemas
+# Bibliotecas para resolver o problemas
 
 - PyAutoGUI(automação de clicks e teclados)
 - Openpyxl (Para a automação e leitura de planilhas)
